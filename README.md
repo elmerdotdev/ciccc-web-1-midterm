@@ -2,12 +2,12 @@
 
 ## Goal
 
-The goal of this assignment is to create a personal portfolio website that will be used to showcase your work and skills to potential employers. This website will be a living document that you can update throughout the program and beyond.
+The goal of this project is to create a personal portfolio website that will be used to showcase your work and skills to potential employers. This website will be a living document that you can update throughout the program and beyond.
 
 ## Requirements
 
 - Before you start building it, create a wireframe of your website. You can use Whimsical to create it and add a screenshot to your repository.
-- Your website must have the following sections/pages:
+- Your website can have the following sections/pages:
 
   - Home
   - About
@@ -17,17 +17,17 @@ The goal of this assignment is to create a personal portfolio website that will 
   - Contact
 
 - You can choose to have a separate page for each section or you can have a single page with multiple sections.
-- You can use JavaScript if you want to.
+- You can use JavaScript if you want to. You are free to use different libraries or frameworks.
 
-## Workflow
+## Example Workflow
 
 - Clone this repository to your local machine.
 - Create a new branch with a descriptive name of your first implementation. You can also create different branches per page.
 - Commit often and write descriptive commit messages.
 - Once you are done with your first implementation, push your branch to GitHub and create a pull request.
-- Once your pull request is approved, merge your branch into the master branch.
+- Once your pull request is approved, merge your branch into the main branch.
 - Create a new branch for your second implementation or page and repeat the process.
-- Do not work on the MASTER branch!
+- Do not work on the MAIN branch!
 
 ## Content
 
