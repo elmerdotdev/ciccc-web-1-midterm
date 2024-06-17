@@ -51,4 +51,4 @@ The goal of this project is to create a personal portfolio website that will be 
 
 ## Submission
 
-- Make sure to push your latest code to GitHub.
+- Make sure to push your latest code to GitHub. For the presentation day, each student is given 5-10 minutes to present their project.
