@@ -6,7 +6,7 @@ The goal of this project is to create a personal portfolio website that will be 
 
 ## Requirements
 
-- Before you start building it, create a wireframe of your website. You can use Whimsical to create it and add a screenshot to your repository.
+- Before you start building your portfolio, create a wireframe of your website. Afterwards, create a mockup in Figma based on your wireframe.
 - Your website can have the following sections/pages:
 
   - Home
